@@ -1,0 +1,5 @@
+C:\GitProjects\InboundTaxInterceptJob\InboundTaxInterceptJob\InboundTaxInterceptJob\ApiJobTemplate\obj\Debug\TaxInterceptJob.csprojResolveAssemblyReference.cache
+C:\GitProjects\InboundTaxInterceptJob\InboundTaxInterceptJob\InboundTaxInterceptJob\PublishedIMS\Binary\TaxInterceptJob.dll
+C:\GitProjects\InboundTaxInterceptJob\InboundTaxInterceptJob\InboundTaxInterceptJob\PublishedIMS\Binary\TaxInterceptJob.pdb
+C:\GitProjects\InboundTaxInterceptJob\InboundTaxInterceptJob\InboundTaxInterceptJob\ApiJobTemplate\obj\Debug\TaxInterceptJob.dll
+C:\GitProjects\InboundTaxInterceptJob\InboundTaxInterceptJob\InboundTaxInterceptJob\ApiJobTemplate\obj\Debug\TaxInterceptJob.pdb
